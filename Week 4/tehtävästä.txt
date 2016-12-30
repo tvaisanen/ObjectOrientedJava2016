@@ -1,0 +1,14 @@
+
+Tehtävään käytetty työmäärä tunneissa.
+
+~10
+
+Mikä tehtävässä oli helppoa ja mikä vaikeaa?
+
+geneeristen oliolistojen pyörittely ja tehtävänannon lukeminen
+
+Mitä opit laatiessasi ohjelmaa?
+
+geneeristen luokkien ja rajapintojen mahdollisuuksista ja toteutuksesta
+
+Mahdollinen muu palaute.

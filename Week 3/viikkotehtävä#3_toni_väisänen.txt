@@ -1,0 +1,15 @@
+Tehtävään käytetty työmäärä tunneissa.
+
+noin. 3
+
+Mikä tehtävässä oli helppoa ja mikä vaikeaa?
+
+pääpiirteittäin helppo kokonaisuudessaan
+
+Mitä opit laatiessasi ohjelmaa?
+
+testifunktioiden suunnitteluun tulisi käyttää sopivasti aikaa jottei tarvitsisi viime hetkellä näpyttää
+sataa riviä System.out.println:nää
+
+Mahdollinen muu palaute.
+

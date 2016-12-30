@@ -1,0 +1,18 @@
+Olio-ohjelmointi_viikkotehtävä_#2.txt
+
+Tehtävään käytetty työmäärä tunneissa?
+
+~4
+
+Mikä tehtävässä oli helppoa ja mikä vaikeaa?
+
+järjestellä koodi mahdollisimman selkeästi
+
+Mitä opit laatiessasi ohjelmaa?
+
+testausfunktion suunnitteleminen on tärkeää
+ja olisi myös hyvä tehdä jonkinlainen käyttöliittymämalli
+jota olisi helppo muokata aina testauseen.
+
+Mahdollinen muu palaute.
+

@@ -1,0 +1,16 @@
+
+Tehtävään käytetty työmäärä tunneissa.
+
+~6
+
+Mikä tehtävässä oli helppoa ja mikä vaikeaa?
+
+minulle eniten vaikeuksia tuotti kirjoittama testikäyttöliittymäni.
+Olio-osuus oli suhteellisen simppeli.
+
+Mitä opit laatiessasi ohjelmaa?
+
+Että kannattaa suunnitella paremmin ennenkuin kirjoittaa riviäkään
+koodia.
+
+Mahdollinen muu palaute.

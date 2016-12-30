@@ -1,0 +1,19 @@
+
+Tehtävään käytetty työmäärä tunneissa.
+
+~10
+
+Mikä tehtävässä oli helppoa ja mikä vaikeaa?
+
+graafisen käyttöliittymän layoutin toteutus.
+
+Mitä opit laatiessasi ohjelmaa?
+
+MVC-mallin toimintaa
+
+Mahdollinen muu palaute.
+
+Ohjelmasta pitäisi löytyä tehtävänannossa vaadittu toiminnallisuus.
+Graafisen käyttöliittymän toteutusta en kerennyt jaksanut viedä pidemmälle, 
+se on hieman buginen tulostuksien osalta, mutta  komentorivitulostusten perusteella
+pitäisi pystyä  lukemaan, että controlleri toimii oikein.
